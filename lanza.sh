@@ -1,4 +1,4 @@
-
+#PRUEBA
 datos=/mnt/hgfs/CompartidaUbuntu/datos.txt
 patron=/mnt/hgfs/CompartidaUbuntu/patron.txt
 sinonimos=/mnt/hgfs/CompartidaUbuntu/sinonimos.txt
